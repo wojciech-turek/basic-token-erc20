@@ -1,2 +1,2 @@
-# chainwave-test-token
-Test Token ERC-20 for Chainwave
+# basic-token
+Test Token ERC-20
